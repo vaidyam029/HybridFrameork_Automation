@@ -1,0 +1,931 @@
+19:12:14.972 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\MAHESH~1\AppData\Local\Temp\testng-eclipse--1785717061\testng-customsuite.xml"
+19:12:15.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.267 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:12:15.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.269 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.269 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+19:12:15.286 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+19:12:15.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.294 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:12:15.294 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.297 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.297 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.301 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.302 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:12:15.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:12:15.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:12:15.314 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\AppData\Local\Temp\testng-eclipse--1785717061\testng-customsuite.xml
+
+19:12:15.329 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19:12:22.767 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:12:22.955 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+19:12:23.808 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+19:12:23.812 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+19:12:25.318 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:12:25.356 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+19:12:25.356 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+19:12:30.315 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4bafe935: 324 ms
+19:12:30.370 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@70331432: 55 ms
+19:12:30.387 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@31f20c9f: 17 ms
+19:12:30.410 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@18ac53e8: 23 ms
+19:12:30.433 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1046498a: 23 ms
+19:12:30.433 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@243f003c: 0 ms
+19:30:19.869 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:30:20.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+19:30:48.524 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:50:57.594 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:50:58.502 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+19:51:42.161 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:55:08.146 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:55:08.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+19:55:31.750 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:55:32.213 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+19:55:36.694 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+19:55:36.703 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+19:55:41.979 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:55:42.087 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+19:56:13.420 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:56:13.962 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+19:56:41.788 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:56:42.169 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+19:56:43.835 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+19:56:43.844 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+19:56:45.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:56:46.050 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:01:33.828 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\crossbrowsertesting.xml"
+20:01:34.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\crossbrowsertesting.xml
+
+20:01:43.153 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:01:43.560 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:01:44.534 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:01:44.544 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:01:47.471 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:01:47.582 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:02:08.944 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:02:09.271 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:02:10.482 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:02:10.486 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:02:14.107 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:02:14.183 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:02:34.600 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:02:34.955 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:02:36.479 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:02:36.480 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:02:38.664 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:02:38.715 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:03:28.687 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\crossbrowsertesting.xml"
+20:03:29.203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\crossbrowsertesting.xml
+
+20:03:43.757 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:03:44.165 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:03:49.388 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:03:49.402 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:03:57.688 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:03:57.926 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:04:03.323 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:04:03.759 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:04:08.548 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:04:08.892 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:04:09.598 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:04:09.602 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:04:12.702 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:04:12.704 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:04:16.057 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:04:16.298 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:04:18.519 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:04:18.568 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:25:22.665 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:25:23.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:26:18.526 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:26:18.995 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:29:34.988 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:29:35.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:32:48.966 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:32:49.464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:37:02.824 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:37:03.446 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:37:13.591 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:37:14.051 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:37:15.097 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:37:15.104 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:37:18.668 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:37:18.764 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+12:54:42.654 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+12:54:42.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+12:55:16.594 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+12:55:16.836 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+12:55:36.353 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+12:55:36.629 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+12:56:01.278 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+12:56:01.496 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+12:56:04.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+12:56:04.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+12:56:05.610 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:56:05.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+12:57:29.036 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+12:57:29.285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+12:57:35.807 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+12:57:37.237 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+14:34:36.423 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+14:34:36.791 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+14:34:59.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:34:59.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:34:59.331 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:34:59.895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:34:59.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:34:59.897 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:34:59.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:34:59.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:34:59.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:34:59.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:34:59.961 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:34:59.962 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:34:59.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:34:59.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:34:59.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.027 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.032 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.067 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.069 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.135 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.157 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.221 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.225 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.253 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.255 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.280 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.309 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.310 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.338 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.374 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:00.375 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:00.376 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:35:00.410 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:35:04.829 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:35:04.837 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:35:16.283 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:35:16.292 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:35:27.691 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:35:27.695 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:35:39.021 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:35:39.025 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:37:40.548 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+14:37:40.857 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+14:37:47.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:47.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:47.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:47.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:47.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:47.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.054 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.073 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.074 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.075 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.145 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.145 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.199 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.199 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.200 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.222 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.242 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:37:48.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:37:48.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:37:48.331 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:37:50.185 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:37:50.195 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:38:01.693 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:38:01.697 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:38:13.209 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:38:13.213 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:38:24.570 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:38:24.576 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:38:26.745 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:41:05.891 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+14:41:06.203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+14:41:13.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.655 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.676 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.705 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.729 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.769 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.769 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.797 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.798 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.799 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.813 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.839 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.839 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.854 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.879 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.880 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.880 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.892 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.893 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:13.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:13.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:13.953 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:41:25.325 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:41:36.666 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:41:36.670 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:41:48.127 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:41:48.131 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:41:59.723 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:41:59.728 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:42:01.884 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:43:48.346 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+14:43:48.635 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+14:43:55.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:55.902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:55.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.361 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.383 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.384 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.385 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.410 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.410 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.541 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.556 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.556 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.557 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.589 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.599 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:56.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:43:56.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:43:56.646 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:43:58.728 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:43:58.736 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:44:10.070 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:44:10.074 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:44:21.851 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:44:21.854 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:44:33.430 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:44:33.433 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+14:44:35.548 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+12:27:49.232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+12:27:49.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml
+
+12:28:23.868 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+12:28:24.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml
+
+12:28:53.062 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+12:28:53.402 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+12:28:56.964 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+12:28:56.975 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+12:29:00.138 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:29:00.252 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+12:29:18.649 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+12:29:22.423 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+12:30:17.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+12:30:18.084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml
+
+12:30:28.973 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+12:30:31.912 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+15:33:12.703 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+15:33:47.471 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+15:33:47.796 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml
+
+15:34:16.795 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+15:34:16.949 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+15:34:20.383 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+15:34:20.388 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+15:34:22.218 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:34:22.262 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+15:34:33.323 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+15:34:36.258 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+15:35:55.708 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+15:35:56.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml
+
+15:36:03.861 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+15:36:03.982 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+15:36:04.947 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+15:36:04.953 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+15:36:06.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:36:06.417 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+15:36:16.593 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+15:36:18.048 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+15:38:27.652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+15:38:27.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml
+
+15:38:36.249 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+15:38:36.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+15:38:37.175 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+15:38:37.179 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+15:38:38.941 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:38:39.002 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+15:38:50.879 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:04:12.383 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:04:12.878 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:04:40.211 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.214 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.775 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.806 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.879 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.906 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.964 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:40.995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:40.996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:40.997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:41.026 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:41.026 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:41.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:41.048 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:41.071 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:41.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.091 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:41.091 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:41.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:41.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:41.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.140 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:41.141 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:41.142 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:41.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:04:41.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:04:41.212 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+17:04:44.428 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:04:44.458 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+17:04:55.970 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:04:55.976 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+17:05:07.755 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:05:07.761 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+17:05:19.526 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:05:19.528 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+17:05:21.509 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:06:28.972 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:06:29.283 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:06:36.717 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+17:06:36.889 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+17:06:39.817 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+17:06:39.824 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+17:06:41.941 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:06:42.005 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+17:06:54.290 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:08:47.425 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\test-output\testng-failed.xml"
+17:08:47.745 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\test-output\testng-failed.xml
+
+17:08:55.228 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:08:56.629 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+17:11:28.730 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:11:29.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:11:36.464 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+17:11:36.676 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+17:11:37.313 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+17:11:37.318 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+17:11:38.648 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:11:38.686 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+17:11:38.687 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+17:11:49.913 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:11:51.495 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+17:12:57.554 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:12:57.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:13:05.260 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+17:13:05.394 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+17:13:06.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+17:13:06.113 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+17:13:07.423 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:13:07.463 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+17:13:07.463 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+17:13:20.180 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:14:49.308 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:14:49.621 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:14:56.936 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+17:14:57.081 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+17:14:57.848 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+17:14:57.852 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+17:14:59.256 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:14:59.293 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+17:15:09.805 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:15:11.302 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:05:15.311 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:05:15.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:05:31.471 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:05:31.696 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:05:34.404 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:05:34.410 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:05:36.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:05:36.417 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:05:47.426 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:05:49.959 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:07:20.115 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:07:20.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:08:27.870 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:08:28.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:08:36.245 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:08:36.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:08:37.258 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:08:37.264 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:08:38.709 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:08:38.758 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:08:50.686 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:08:52.778 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:10:07.209 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+20:10:07.503 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:10:16.226 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:10:16.350 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:10:17.096 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:10:17.100 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:10:18.942 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:10:18.993 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:10:31.026 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:10:32.803 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:11:20.603 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\crossbrowsertesting.xml"
+20:11:21.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\crossbrowsertesting.xml
+
+20:11:21.892 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:11:31.216 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:11:31.465 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:11:32.344 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:11:32.353 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:11:34.474 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:11:34.576 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:11:39.729 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:11:39.929 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:11:40.965 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:11:40.966 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:11:42.945 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:11:42.983 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+16:33:03.359 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+16:33:03.860 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+16:33:04.194 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+16:34:11.517 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+16:34:11.798 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+16:34:46.375 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+16:34:46.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+16:37:48.677 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+16:37:49.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+16:44:12.914 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+16:44:14.072 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+16:47:33.325 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+16:47:33.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+16:52:10.599 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+16:52:10.938 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+16:59:42.783 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+16:59:43.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:00:15.809 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\MAHESH~1\AppData\Local\Temp\testng-eclipse--2147473584\testng-customsuite.xml"
+17:00:16.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.041 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:00:16.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.044 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.044 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.048 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+17:00:16.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+17:00:16.058 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:00:16.058 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:00:16.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:00:16.077 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\AppData\Local\Temp\testng-eclipse--2147473584\testng-customsuite.xml
+
+17:00:16.089 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+17:00:17.953 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6b5176f2: 1732 ms
+17:00:18.014 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@f19c9d2: 61 ms
+17:00:18.034 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4c36250e: 20 ms
+17:00:18.072 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@724f138e: 38 ms
+17:00:18.104 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@d78795: 32 ms
+17:00:18.104 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2c715e84: 0 ms
+17:01:11.937 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:01:12.212 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:04:21.644 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:04:22.063 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:05:27.928 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+17:05:28.383 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+17:05:28.688 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+17:05:52.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:05:52.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:07:03.186 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml"
+17:07:03.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grouping.xml
+
+17:11:26.495 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:11:26.917 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:12:35.916 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:12:36.346 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:15:09.452 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:15:09.838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:29:57.655 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:29:58.149 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:30:53.453 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:30:53.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:31:22.732 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:31:27.436 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+17:31:53.747 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+17:31:54.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+17:32:02.500 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+17:32:03.096 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+17:32:06.352 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+17:32:06.366 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+17:32:09.730 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:32:09.861 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+17:32:20.469 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+17:32:23.206 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+17:44:53.230 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+17:44:53.746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+17:44:54.140 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:53:54.129 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+19:53:54.901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+19:53:55.420 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:54:51.015 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:54:51.493 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+19:55:45.283 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:55:45.875 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+19:56:46.053 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:56:46.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml
+
+20:00:17.841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:00:18.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+20:00:18.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:03:39.514 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:03:40.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+20:03:40.355 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:03:40.436 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:06:17.403 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:06:17.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+20:06:25.304 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:06:25.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:06:26.324 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:06:26.328 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:06:28.284 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:06:28.443 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:06:30.534 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:06:32.540 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:06:49.073 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:06:49.786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+20:06:54.767 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:06:55.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:06:55.897 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:06:55.904 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:06:58.155 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:06:58.297 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:07:05.374 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:07:07.733 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:10:10.128 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:10:10.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+20:10:20.186 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:10:20.586 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:10:21.491 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:10:21.498 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:10:23.266 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:10:23.328 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:10:30.355 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:10:32.183 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:11:55.644 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:14:15.494 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:14:16.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+20:14:21.568 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:14:21.886 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:14:22.656 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:14:22.664 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:14:25.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:14:25.283 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:14:28.135 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:14:30.346 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:14:39.742 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:14:40.069 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:14:40.733 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:14:40.734 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:14:42.475 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:14:42.537 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:14:49.094 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:14:50.857 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:52:03.605 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml"
+20:52:04.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\grif-docker.xml
+
+20:52:10.035 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:52:10.286 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:52:11.217 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:52:11.227 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:52:13.244 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:52:13.364 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:52:15.666 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:52:17.838 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+20:52:28.829 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+20:52:29.163 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+20:52:29.841 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+20:52:29.842 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+20:52:32.058 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:52:32.144 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+20:52:39.727 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+20:52:41.868 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+18:26:42.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+18:28:25.592 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+18:28:51.498 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+18:28:51.883 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+18:28:55.348 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+18:28:55.357 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:28:58.899 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:28:59.001 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+18:29:12.844 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+18:29:17.689 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+19:26:18.394 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+19:26:38.554 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+19:26:38.955 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+19:26:42.822 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+19:26:42.839 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+19:26:46.620 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:26:46.707 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+19:27:02.169 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+19:27:06.413 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+18:59:40.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh Vaidya\eclipse-workspace\HybridFrameork_Automation\master.xml"
+18:59:56.275 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*******
+18:59:56.421 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+18:59:59.407 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link...
+18:59:59.418 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+19:00:01.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:00:01.436 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finish TC001_AccountRegistrationTest ********
+19:00:13.314 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest
+19:00:15.958 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest ******
